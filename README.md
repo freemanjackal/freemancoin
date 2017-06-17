@@ -1,2 +1,0 @@
-# freemancoin
-test
